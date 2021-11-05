@@ -13,7 +13,7 @@ Documents relating the assignment are saved different folders in the structure b
                                   folder)
     └── doc                     # Documentation files (additional documentations wil be saved in this folder)
 
-Benjamin Ng Hak Chun maintin this repo.
+Benjamin maintins this repo.
 
 
 
