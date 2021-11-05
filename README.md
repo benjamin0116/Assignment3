@@ -7,13 +7,13 @@ Dataset to be analyised is the Titanic DataSet from Kaggle.
 Documents relating the assignment are saved different folders in the structure below:
                     
     ├── src                     # Source files (All python code will be saved in this folder)
-    ├── data                    # Data related to the project (Both the raw dataset and the final dataset will be saved in this folder)
-    ├── result                  # Report of the project
-    └── doc                     # Documentation files (additional documentations)
+    ├── data                    # Data related to the project (Both the raw dataset and the final dataset
+                                  will be saved in this folder)
+    ├── result                  # Report of the project (pdf report of this assignment will be saved in this
+                                  folder)
+    └── doc                     # Documentation files (additional documentations wil be saved in this folder)
 
-
-Where users can get help with your project
-Who maintains and contributes to the project
+Benjamin Ng Hak Chun maintin this repo.
 
 
 
